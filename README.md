@@ -35,12 +35,6 @@ Currently leveling up in:
 🔹 **Marketing Analytics & Lead Tracker (Excel)**  
 Built a complete MIS model that tracks leads, conversions, and sales team efficiency.
 
-🔹 **EV Market Research (Tableau + Excel)**  
-Analyzed EV trends, regional adoption, and market leaders for business insights.
-
-🔹 **Booking Behavior EDA (Python)**  
-Studied hotel booking patterns, peak seasons, and revenue spikes using Python.
-
 🔹 **Ad Hoc Business Queries (MySQL)**  
 Delivered fast insights through smart SQL queries for management decision-making.
 
