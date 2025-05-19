@@ -32,14 +32,12 @@ Currently leveling up in:
 
 ### 🧩 Projects That Define Me
 
-🔹 **Marketing Analytics & Lead Tracker (Excel)**  
-Built a complete MIS model that tracks leads, conversions, and sales team efficiency.
+🔹 **Profit & Loss Analysis Report  (Excel)**  
+Developed two targeted sales reports to help the team analyze customer behavior and evaluate market performance against predefined targets, enabling data-driven decision-making and strategic improvements.
 
-🔹 **Ad Hoc Business Queries (MySQL)**  
-Delivered fast insights through smart SQL queries for management decision-making.
-
-🔹 **Credit Card Usage Dashboard (Power BI)**  
+🔹 **Business Insight Dashboard  (Power BI)**  
 Visualized demographics, usage patterns & recommendations for financial products.
+
 
 ---
 
@@ -54,7 +52,7 @@ Visualized demographics, usage patterns & recommendations for financial products
 
 ### 📬 Let's Get in Touch!
 
-💼 [LinkedIn](https://www.linkedin.com/in/suresh-rawat-16142054/)  
+💼 [LinkedIn](https://www.linkedin.com/in/suresh-rawat-b8bb45362/)  
 📧 rawat.suresh00@gmail.com   
 
  I'm always up for a chat about business, data, or tech — let's make sense of complexity together.
