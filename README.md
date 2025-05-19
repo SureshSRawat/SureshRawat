@@ -11,8 +11,9 @@ I’m an **Aspiring Business Analyst** with a background in **Computer Science**
 📍 Started with a BTech in Computer Science — built my logic and structured thinking  
 📍 Explored the real-world tech scene with 22 months at Integreon as a Data Breach Analyst  
 📍 Pivoted into business with an MBA — finance, numbers, and decision-making became my playground  
-📍 I craft impactful stories through data using Power BI and Excel, and I'm sharpening my skills in MySQL to manage and query data like a pro. 
 📍 Currently exploring the synergy of **Business Analyst, data visualization, and storytelling with numbers**
+📍 I craft impactful stories through data using Power BI and Excel, and I'm sharpening my skills in MySQL to manage and query data like a pro. 
+
 
 ---
 
